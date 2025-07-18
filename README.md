@@ -50,7 +50,7 @@ A React application that allows users to generate strong and secure passwords ba
 4.  Click the "Copy to Clipboard" button to copy the generated password to your system's clipboard.
 
 ## File Structure
-
+```
 password-generator/
 ├── public/
 │   └── ...
@@ -64,3 +64,4 @@ password-generator/
 ├── package.json
 ├── README.md
 └── ...
+```
