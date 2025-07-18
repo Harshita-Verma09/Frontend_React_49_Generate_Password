@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import './OTP.css'
+import './OTP.css
+    '
 
 const PasswordGenerator = () => {
     const [password, setPassword] = useState("");
